@@ -71,4 +71,43 @@ const departments = {
     }
 }
 
-console.log(departments);
+
+// //----------OPDRACHT 2----------//
+// const userInput = prompt('Over welke afdeling wil je meer informatie? ' +
+//     'Kies uit: [marketing / sales / customer-service');
+// console.log(userInput);
+//
+// let departmentDescriptionElement= document.getElementById("department-description")
+//
+// switch (userInput) {
+//     case "marketing":
+//         console.log("Je koos voor marketing.");
+//         departmentDescriptionElement.textContent = departments.marketing.description;
+//         break
+//     case "sales":
+//         console.log("Je koos voor sales.");
+//         departmentDescriptionElement.textContent = departments.sales.description;
+//         break
+//     case "customer-service":
+//         console.log("Je koos voor customer-service")
+//         departmentDescriptionElement.textContent = departments["customer-service"].description
+//         break
+//     default:
+//         console.error(departmentDescriptionElement.textContent = "Ongeldige keuze. Probeer het opnieuw door de pagina te verversen")
+// }
+
+//let roleTitleElement= document.getElementById("role-title")
+
+//----------OPDRACHT 3----------//
+// const userInput = prompt("Je koos voor marketing. Over welke functie wil je meer weten? " +
+//     "Voer een getal tussen de 0 en de 3 in." +
+//     0: departments.marketing[0].title,
+//     1: [departments.marketing[0].title],
+//     1: [functietitel marketing 1],
+//     2: [functietitel marketing 2],
+//     3: [functietitel marketing 3]
+//
+// console.log(userInput);
+
+//----------OPDRACHT 4----------//
+//----------OPDRACHT 5 (bonus)----------//
